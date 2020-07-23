@@ -1,4 +1,4 @@
-# neural translator(traducteur neuronal)
+# neural translator(traductrice neuronal)
 Machine Translation System using seq 2 seq LSTM to translate texts from English to French implemented with tensorflow !!
 
 
